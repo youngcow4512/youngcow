@@ -1,0 +1,8 @@
+YOUNGCOW — GITHUB PAGES
+
+1. Extract this ZIP.
+2. Upload ALL extracted files and the assets folder to the ROOT of your youngcow.github.io repository.
+3. GitHub: Settings > Pages > Deploy from a branch > main > /(root) > Save.
+4. Wait a few minutes and open https://youngcow.github.io/
+
+Do not upload the ZIP itself as the only repository file. Upload the files inside it.
